@@ -15,3 +15,4 @@ function celsiusToFahrenheit(celsius) {
 let celsius = 25;
 let fahrenheit = celsiusToFahrenheit(celsius);
 console.log("Temperature in Fahrenheit:", fahrenheit);
+
