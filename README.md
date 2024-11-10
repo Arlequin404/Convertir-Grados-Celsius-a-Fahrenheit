@@ -8,8 +8,8 @@ El programa toma una temperatura en grados Celsius y la convierte a Fahrenheit u
 
 ## Requisitos
 
-- **Lenguaje**: JavaScript (Node.js)
-- **Requisitos**: Node.js
+- **Lenguaje**: JavaScript (`Node.js`)
+- **Requisitos**: `Node.js`
 
 ## Cómo Clonar y Ejecutar
 
@@ -19,22 +19,22 @@ Para clonar este repositorio en tu máquina local, usa los siguientes comandos:
 git clone https://github.com/<tu-usuario>/javascript-celsius-to-fahrenheit.git
 cd javascript-celsius-to-fahrenheit
 ```
-** Para ejecutar el programa, usa:**
+**Para ejecutar el programa, usa:**
 
 ```bash
 node index.js
 ```
 ## Dockerización
 
-Paso 1: Construir la Imagen Docker
+**Paso 1: Construir la Imagen Docker**
 ```bash
 docker build -t javascript-celsius-to-fahrenheit .
 ```
-Paso 2: Etiquetar la Imagen
+**Paso 2: Etiquetar la Imagen**
 ```bash
 docker tag javascript-celsius-to-fahrenheit <tu-usuario>/javascript-celsius-to-fahrenheit:latest
 ```
-Paso 3: Subir la Imagen a Docker Hub
+**Paso 3: Subir la Imagen a Docker Hub**
 
 ```bash
 docker push <tu-usuario>/javascript-celsius-to-fahrenheit:latest
@@ -45,4 +45,4 @@ JavaScript Celsius to Fahrenheit en Docker Hub (https://hub.docker.com/repositor
 
 
 ## Licencia
-Este repositorio está disponible bajo la Licencia MIT.
+Este repositorio está disponible bajo la Licencia `MIT`.
