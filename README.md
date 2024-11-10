@@ -106,6 +106,6 @@ JavaScript Celsius to Fahrenheit on Docker Hub (https://hub.docker.com/repositor
 ## License
 
 This repository is available under the `MIT` License.
-```
+
 
 *Remember to replace `<your-user>` with your GitHub or Docker Hub username. This `README.md` file provides all the steps and information needed to clone, run, and dockerize the project.*
