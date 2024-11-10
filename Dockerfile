@@ -1,8 +1,11 @@
-# Utiliza la imagen oficial de Node.js
+# Usar una imagen base de Node.js
 FROM node:14
 
-# Copia el archivo JavaScript al contenedor
-COPY app.js /app.js
+# Establecer el directorio de trabajo
+WORKDIR /app
 
-# Ejecuta el programa
-CMD ["node", "/app.js"]
+# Copiar el código fuente al contenedor
+COPY . .
+
+# Ejecutar el programa
+CMD ["node", "celsius_to_fahrenheit.js"]
