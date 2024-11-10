@@ -41,7 +41,7 @@ docker push <tu-usuario>/javascript-celsius-to-fahrenheit:latest
 ```
 
 ## Enlace al Docker Hub
-JavaScript Celsius to Fahrenheit en Docker Hub (https://hub.docker.com/repository/docker/alex8991/node-celsius-to-fahrenheit/general)
+JavaScript Celsius to Fahrenheit en Docker Hub https://hub.docker.com/repository/docker/alex8991/node-celsius-to-fahrenheit/general
 
 
 ## Licencia
@@ -101,7 +101,7 @@ docker push <your-username>/javascript-celsius-to-fahrenheit:latest
 
 ## Docker Hub Link
 
-JavaScript Celsius to Fahrenheit on Docker Hub (https://hub.docker.com/repository/docker/alex8991/node-celsius-to-fahrenheit/general)
+JavaScript Celsius to Fahrenheit on Docker Hub https://hub.docker.com/repository/docker/alex8991/node-celsius-to-fahrenheit/general
 
 ## License
 
